@@ -47,7 +47,7 @@ I’m an Informatics student with more than 2.5 years of hands-on experience in 
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shavellegau&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shavellegau&theme=dark&hideborder=true)
 <!--
 **shavellegau/shavellegau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

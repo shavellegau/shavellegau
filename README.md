@@ -1,5 +1,4 @@
 # Hi there 👋
-<hr>
 
 <img align="right" width="180" src="gif-bubu.gif">
 

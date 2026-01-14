@@ -45,6 +45,9 @@ I’m an Informatics student with more than 2.5 years of hands-on experience in 
     * *Tech:* PHP, CSS
     * A lightweight productivity tool with full CRUD (Create, Read, Update, Delete) functionality.
 
+## 📊 GitHub Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shavellegau&theme=dark&hide_border=true)
 <!--
 **shavellegau/shavellegau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

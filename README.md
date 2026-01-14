@@ -1,4 +1,4 @@
-<img align="right" width="150" src="https://media.tenor.com/c8v-Y5_XN80AAAAC/bubu-think-bubu-thinking.gif">
+<img align="right" width="180" src="gif-bubu.gif">
 
 # Hi there 👋
 

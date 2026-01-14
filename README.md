@@ -1,7 +1,7 @@
 # Hi there 👋
 <hr>
 
-<img align="right" width="180" src="bubu-think.gif">
+<img align="right" width="180" src="gif-bubu.gif">
 
 ## I'm Shavelle Gautami Japar
 

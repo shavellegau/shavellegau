@@ -1,3 +1,5 @@
+<img align="right" width="150" src="https://media.tenor.com/c8v-Y5_XN80AAAAC/bubu-think-bubu-thinking.gif">
+
 # Hi there 👋
 
 ## I'm Shavelle Gautami Japar
@@ -43,7 +45,6 @@ I’m an Informatics student with more than 2.5 years of hands-on experience in 
     * *Tech:* PHP, CSS
     * A lightweight productivity tool with full CRUD (Create, Read, Update, Delete) functionality.
 
-<img align="right" width="150" src="https://media.tenor.com/c8v-Y5_XN80AAAAC/bubu-think-bubu-thinking.gif">
 <!--
 **shavellegau/shavellegau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

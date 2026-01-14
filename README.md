@@ -1,12 +1,11 @@
-<img align="right" width="180" src="gif-bubu.gif">
-
 # Hi there 👋
+<hr>
+
+<img align="right" width="180" src="bubu-think.gif">
 
 ## I'm Shavelle Gautami Japar
 
 I’m an Informatics student with more than 2.5 years of hands-on experience in UI/UX design, Android development (Kotlin), and modern frontend development. Skilled in Figma, React, and Android Studio passionate about building intuitive digital products that focus on usability and clean user experience.
-
---- 
 
 ### 🖊️ I specialize in:
 * **Frontend Development** -  turning designs into responsive interfaces with React, Next.js, and Tailwind CSS.
